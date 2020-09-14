@@ -1,6 +1,6 @@
 # Track-App
 
-Tracker app for react-native. Track and save your journey.
+Tracker app for react-native using MongoDB. Track and save your journey.
 
 This project was created using Expo.
 
