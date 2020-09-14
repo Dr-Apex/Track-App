@@ -4,9 +4,9 @@ Tracker app for react-native. Track and save your journey.
 
 This project was created using Expo.
 
-iOS: open using iOS simulator
+*iOS: open using iOS simulator
 
-android: open using android simulator
+*android: open using android simulator
 
 Available Scripts
 In the project directory, you can run:
