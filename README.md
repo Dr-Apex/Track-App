@@ -8,7 +8,7 @@ This project was created using Expo.
 
 *android: open using android simulator
 
-Available Scripts
+#Available Scripts
 In the project directory, you can run:
 
 npm start
